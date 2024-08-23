@@ -1,0 +1,14 @@
+C:\Projects\SequenceOfFibonacci\FibonacciSequence.Console\bin\Debug\net8.0\FibonacciSequence.Console.exe
+C:\Projects\SequenceOfFibonacci\FibonacciSequence.Console\bin\Debug\net8.0\FibonacciSequence.Console.deps.json
+C:\Projects\SequenceOfFibonacci\FibonacciSequence.Console\bin\Debug\net8.0\FibonacciSequence.Console.runtimeconfig.json
+C:\Projects\SequenceOfFibonacci\FibonacciSequence.Console\bin\Debug\net8.0\FibonacciSequence.Console.dll
+C:\Projects\SequenceOfFibonacci\FibonacciSequence.Console\bin\Debug\net8.0\FibonacciSequence.Console.pdb
+C:\Projects\SequenceOfFibonacci\FibonacciSequence.Console\obj\Debug\net8.0\FibonacciSequence.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SequenceOfFibonacci\FibonacciSequence.Console\obj\Debug\net8.0\FibonacciSequence.Console.AssemblyInfoInputs.cache
+C:\Projects\SequenceOfFibonacci\FibonacciSequence.Console\obj\Debug\net8.0\FibonacciSequence.Console.AssemblyInfo.cs
+C:\Projects\SequenceOfFibonacci\FibonacciSequence.Console\obj\Debug\net8.0\FibonacciSequence.Console.csproj.CoreCompileInputs.cache
+C:\Projects\SequenceOfFibonacci\FibonacciSequence.Console\obj\Debug\net8.0\FibonacciSequence.Console.dll
+C:\Projects\SequenceOfFibonacci\FibonacciSequence.Console\obj\Debug\net8.0\refint\FibonacciSequence.Console.dll
+C:\Projects\SequenceOfFibonacci\FibonacciSequence.Console\obj\Debug\net8.0\FibonacciSequence.Console.pdb
+C:\Projects\SequenceOfFibonacci\FibonacciSequence.Console\obj\Debug\net8.0\FibonacciSequence.Console.genruntimeconfig.cache
+C:\Projects\SequenceOfFibonacci\FibonacciSequence.Console\obj\Debug\net8.0\ref\FibonacciSequence.Console.dll
